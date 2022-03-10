@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Dabla 👋
 
--  Atualmente trabalho com automações em C# e aplicações web que utilizam C# no back-end e Angular no front-end no Itaú.
+-  Atualmente trabalho com automações e aplicações web que utilizam C# no back-end e Angular no front-end no Itaú.
 -  Estou estudando C#, Typescript, Arquitetura (12 Factor), Boas práticas de DevOps e AWS
 -  Pronomes: Ela/Dela
 
